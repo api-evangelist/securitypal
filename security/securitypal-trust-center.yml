@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: https://assurance.securitypal.com/
+url: https://assurance.securitypal.com/
+certifications:
+- SOC 2 Type 2
+- GDPR
+- CCPA
+evidence:
+- source: https://assurance.securitypal.com/
+  keywords:
+  - trust center
+  - soc 2 type 2
+  - gdpr
+  - ccpa
+notes: >-
+  SecurityPal publishes a public Trust Center at assurance.securitypal.com listing
+  SOC 2 Type 2, GDPR, and CCPA under Certifications. The trust center is hosted on the
+  securitypal.com apex (distinct from the primary securitypalhq.com marketing domain),
+  which is why the automated same-domain probe did not detect it.
